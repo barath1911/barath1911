@@ -16,4 +16,6 @@ Java Fullstack
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/barath?theme=dark&font=Marcellus&ext=contest)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barath&bg_color=1f1e1f&color=2bc002&line=5ee65c&point=302c2c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
