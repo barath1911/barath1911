@@ -12,10 +12,3 @@ Java Fullstack
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
-
-
-
-
-)
-
-
