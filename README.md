@@ -14,7 +14,7 @@ Java Fullstack
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/barath?theme=dark&font=Marcellus&ext=contest)
+
 
 )
 
