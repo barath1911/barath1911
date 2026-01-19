@@ -67,7 +67,6 @@ Passionate about building secure and scalable web applications.
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/barath11  
-- 💻 GitHub: https://github.com/BarathK  
 
 ---
 
