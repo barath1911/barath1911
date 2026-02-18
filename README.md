@@ -29,10 +29,6 @@ Passionate about building secure and scalable web applications.
 ---
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BarathK&theme=tokyonight" height="160"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
