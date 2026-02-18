@@ -1,9 +1,5 @@
-## 👋 Hi there, It's me **Barath K**
+<p align="center"> <h1>எண்ணம் போல் வாழ்க்கை</h1> </p> <p align="center"> 👋 Hi, I’m <b>Barath K</b> 🌟 Aspiring <b>Java Full Stack Developer</b> passionate about building secure, scalable web applications. </p>
 
-### 🚀 Java Full Stack Developer
-
-<img align="right" width="340" height="260" 
-src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
 I'm an aspiring **Java Full Stack Developer** with hands-on experience in  
 **Spring Boot, Spring MVC, Spring Security, REST APIs, and MySQL**.  
@@ -14,14 +10,8 @@ Passionate about building secure and scalable web applications.
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=java,html,css,bootstrap,javascript,spring,springsecurity,springdatajpa,mysql"/>
+  
 </p>
 
 ---
