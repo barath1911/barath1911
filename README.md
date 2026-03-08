@@ -1,142 +1,130 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  BARATH K — GitHub Profile README              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ANIMATED HEADER SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Barath+K+%E2%80%94+Java+Full+Stack+Developer;%3E+Spring+Boot+%7C+REST+APIs+%7C+MySQL;%3E+Building+products+that+matter...;%3E+Open+to+Internship+%26+Junior+Dev+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Barath+K;Java+Full+Stack+Developer+%7C+Fresher;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+MySQL;Frontend-First+Learner+%7C+HTML+%7C+CSS+%7C+Bootstrap;Open+to+Internship+%26+Junior+Developer+Roles+🚀" alt="Typing SVG" />
+
+# Barath K
+### Java Full Stack Developer | Fresher
+
+📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 📞 6383169558 &nbsp;|&nbsp; ✉️ barathofficial1911@gmail.com
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+## 👨‍💻 About Me
 
-```java
-public class Barath {
+Java Full Stack Developer **(Fresher)** with **8 months of hands-on training** in Full Stack Java Development from **Pumo Technovations**.
 
-    String name     = "Barath K";
-    String role     = "Java Full Stack Developer";
-    String location = "Coimbatore, Tamil Nadu 🇮🇳";
-    String status   = "Open to Internship / Junior Dev";
-
-    String[] languages = {
-        "Java", "JavaScript", "C"
-    };
-
-    String[] backend = {
-        "Spring Boot", "Spring MVC",
-        "Spring Security", "Hibernate",
-        "JPA", "REST APIs"
-    };
-
-    String[] frontend = {
-        "HTML5", "CSS3",
-        "JavaScript ES6", "Bootstrap"
-    };
-
-    String database = "MySQL";
-
-    void greet() {
-        System.out.println(
-          "Hello World! Let's build something great 🔥"
-        );
-    }
-}
-```
-
-<br clear="right"/>
+Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs, MySQL, HTML, CSS, JavaScript**, and **Bootstrap**. Career transition professional with prior experience in inventory operations. Actively seeking **Internship / Junior Software Developer** opportunities to contribute to real-world development teams.
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ Technical Skills
 
-<div align="center">
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔴 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🟢 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔵 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🟡 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+### 🔧 Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projects — *What I've Built*
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🌍 Travel & Tour Website *(Frontend)*
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6), Swiper.js, Font Awesome
 
-### 🌍 Travel & Tour Website
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- Designed and developed a fully responsive travel and tour website focusing on modern UI/UX principles.
+- Built interactive components including hero sliders, tour carousels, animated counters, video showcase sections, and authentication UI pages.
+- Implemented reusable frontend components and optimized for mobile responsiveness and cross-browser compatibility.
+- Simulated real-world travel booking platform features using dynamic animations and structured layout design.
 
-Fully responsive travel site with hero sliders, tour carousels, animated counters & authentication UI. Mobile-first, cross-browser compatible.
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-4CAF50?style=for-the-badge)](https://barath1911.github.io/Travelproject/)
+[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelproject)
 
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-4CAF50?style=flat-square)](https://barath1911.github.io/Travelproject/)
-[![Repo](https://img.shields.io/badge/⌥%20Source-181717?style=flat-square&logo=github)](https://github.com/barath1911/Travelproject)
+---
 
-</td>
-<td width="50%" valign="top">
+### 👗 FashionX — E-Commerce Frontend Website
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6), Bootstrap
 
-### 👗 FashionX E-Commerce
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- Developed a responsive e-commerce fashion website with modern UI/UX design using Bootstrap and custom CSS styling.
+- Implemented interactive product sections including product cards, wishlist toggle, and dynamic "View All / Show Less" functionality.
+- Designed hero section with promotional banner, animated UI components, and smooth scrolling effects.
+- Built dark/light mode toggle feature to enhance user accessibility and visual experience.
+- Created newsletter subscription form with client-side email validation.
+- Structured reusable components including navbar, product grid, about section, and multi-column footer layout.
 
-E-commerce store with dark/light mode, wishlist toggle, dynamic product grid, newsletter validation & smooth animations.
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-4CAF50?style=for-the-badge)](https://barath1911.github.io/E-Commerce-FashionX/)
+[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/E-Commerce-FashionX)
 
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-4CAF50?style=flat-square)](https://barath1911.github.io/E-Commerce-FashionX/)
-[![Repo](https://img.shields.io/badge/⌥%20Source-181717?style=flat-square&logo=github)](https://github.com/barath1911/E-Commerce-FashionX)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### ✈️ Travel Web Application *(Spring MVC + Spring Security)*
+**Tech Stack:** Spring MVC, Spring Security, JPA, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
-### ✈️ Secure Travel Web App
-![Spring](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- Developed a secure travel booking web application using Spring MVC architecture following structured MVC design principles.
+- Implemented user authentication and authorization using Spring Security with custom UserDetailsService and BCrypt password encryption.
+- Designed role-based access control to protect secured endpoints and sensitive user data.
+- Integrated MySQL database using JPA repositories for efficient data persistence and transaction management.
+- Built responsive and user-friendly interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- Enhanced application security by implementing prepared queries and secure session handling.
 
-Spring MVC travel booking app with **Spring Security**, BCrypt encryption, role-based access control & JPA/MySQL integration.
+[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelweb)
 
-[![Repo](https://img.shields.io/badge/⌥%20Source-181717?style=flat-square&logo=github)](https://github.com/barath1911/Travelweb)
+---
 
-</td>
-<td width="50%" valign="top">
+### ✅ To-Do List REST API *(Spring Boot)*
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, REST API, Lombok
 
-### ✅ To-Do REST API
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+- Developed a RESTful To-Do List application implementing layered architecture using Controller, Service, and Repository design patterns.
+- Designed and implemented CRUD operations for task management including creation, update, deletion, and retrieval using REST endpoints.
+- Implemented custom exception handling using `TaskNotFoundException` to improve API reliability and error management.
+- Integrated Spring Data JPA with MySQL for efficient data persistence and database operations.
+- Built filtering features to retrieve completed and incomplete tasks using custom repository query methods.
+- Used Lombok annotations to reduce boilerplate code and improve maintainability.
+- Followed REST best practices using `ResponseEntity` for structured HTTP responses.
 
-RESTful CRUD API with layered architecture (Controller → Service → Repository), custom exception handling & ResponseEntity patterns.
+[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/To-Do-List-SpringBoot)
 
-[![Repo](https://img.shields.io/badge/⌥%20Source-181717?style=flat-square&logo=github)](https://github.com/barath1911/To-Do-List-SpringBoot)
+---
 
-</td>
-</tr>
-</table>
+## 📜 Certifications
+
+🏆 **Java Full Stack Development** — Pumo Technovations, 2025
+
+Completed a Certificate Course in Full Stack Development from Pumo Technovations. Covered **C Program, Core Java, JDBC, HTML, CSS, JavaScript, Bootstrap, Hibernate, Spring MVC, Spring Boot, REST APIs, MySQL**, and project development.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| 🎓 B.Com (Computer Application) | Kalasalingam Academy of Research & Education | 2022 | CGPA 7.7 |
+| 📗 HSC — State Board | G S Hindu Higher Secondary School | 2019 | 66.83% |
+| 📘 SSLC — State Board | G S Hindu Higher Secondary School | 2017 | 84% |
 
 ---
 
@@ -144,40 +132,23 @@ RESTful CRUD API with layered architecture (Controller → Service → Repositor
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barath1911&show_icons=true&theme=chartreuse-dark&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath1911&layout=compact&theme=chartreuse-dark&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117&border_color=00FF41"/>
+![Barath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barath1911&show_icons=true&theme=dark&title_color=6DB33F&icon_color=F7DF1E&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barath1911&layout=compact&theme=dark&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d)
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=barath1911&theme=dark&ring=00FF41&fire=FF6C37&currStreakLabel=00FF41&sideLabels=c9d1d9&background=0d1117&border=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com?user=barath1911&theme=dark&ring=6DB33F&fire=FF6C37&currStreakLabel=6DB33F&sideLabels=c9d1d9&background=0d1117&border=30363d)
 
 </div>
 
 ---
 
-## 🎓 Education & Certification
-
-```
-📚 B.Com (Computer Application)   Kalasalingam Academy    2022   CGPA 7.7
-📗 HSC  State Board               G S Hindu Hr. Sec.      2019   66.83%
-📘 SSLC State Board               G S Hindu Hr. Sec.      2017   84%
-
-🏆 Java Full Stack Development Certificate — Pumo Technovations, 2025
-   └── C · Core Java · JDBC · HTML · CSS · JS · Bootstrap
-       Hibernate · Spring MVC · Spring Boot · REST APIs · MySQL
-```
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-barath1911-%23181717?style=for-the-badge&logo=github)](https://github.com/barath1911)
-[![Gmail](https://img.shields.io/badge/Gmail-barathofficial1911%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathofficial1911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barath%20K-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/barath1911)
+[![GitHub](https://img.shields.io/badge/GitHub-barath1911-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911)
+[![Gmail](https://img.shields.io/badge/Gmail-barathofficial1911@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathofficial1911@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barath%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barath1911)
 
 </div>
 
@@ -185,14 +156,8 @@ RESTful CRUD API with layered architecture (Controller → Service → Repositor
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   💼 Actively seeking Internship opportunities       ║
-║   🌱 Currently levelling up: Microservices + React   ║
-║   ⚡ Fun fact: I debug with System.out.println() 😄  ║
-╚══════════════════════════════════════════════════════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=barath1911&color=6DB33F&style=flat-square&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=barath1911&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+⭐ **Open to Internship & Junior Developer Opportunities!**
 
 </div>
