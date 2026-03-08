@@ -1,25 +1,16 @@
-<div align="center">
+# 👋 Hi, I'm Barath K
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&height=55&lines=👋+Hi%2C+I'm+Barath+K!;Java+Full+Stack+Developer+%7C+Fresher;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+MySQL;Open+to+Internship+%26+Junior+Dev+Roles+🚀" alt="Typing SVG" />
+### ☕ Java Full Stack Developer | Fresher
 
-<h1>Barath K</h1>
-<h3>☕ Java Full Stack Developer | Fresher</h3>
-
-<p>
-<img src="https://img.shields.io/badge/📍 Coimbatore, Tamil Nadu-0d1117?style=flat-square&color=21262d&labelColor=21262d"/>
-<img src="https://img.shields.io/badge/📞 6383169558-0d1117?style=flat-square&color=21262d&labelColor=21262d"/>
-<img src="https://img.shields.io/badge/✉️ barathofficial1911@gmail.com-0d1117?style=flat-square&color=21262d&labelColor=21262d"/>
-</p>
-
-</div>
+📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 📞 6383169558 &nbsp;|&nbsp; ✉️ barathofficial1911@gmail.com
 
 ---
 
 ## 👨‍💻 About Me
 
-> Java Full Stack Developer **(Fresher)** with **8 months of hands-on training** in Full Stack Java Development from **Pumo Technovations**.
+Java Full Stack Developer **(Fresher)** with **8 months of hands-on training** in Full Stack Java Development from **Pumo Technovations**.
 
-Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs, MySQL, HTML, CSS, JavaScript**, and **Bootstrap**. Career transition professional with prior experience in inventory operations. Actively seeking **Internship / Junior Software Developer** opportunities to contribute to real-world development teams.
+Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs, MySQL, HTML, CSS, JavaScript**, and **Bootstrap**. Career transition professional with prior experience in inventory operations. Actively seeking **Internship / Junior Software Developer** opportunities.
 
 ---
 
@@ -58,58 +49,56 @@ Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs,
 ## 🚀 Projects
 
 ### 🌍 Travel & Tour Website *(Frontend)*
-> **Tech Stack:** `HTML5` `CSS3` `JavaScript ES6` `Swiper.js` `Font Awesome`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript ES6` `Swiper.js` `Font Awesome`
 
 - Designed a fully responsive travel website with modern UI/UX principles
 - Built hero sliders, tour carousels, animated counters, video showcase & auth UI pages
-- Reusable components optimized for mobile responsiveness and cross-browser compatibility
+- Optimized for mobile responsiveness and cross-browser compatibility
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-4CAF50?style=for-the-badge)](https://barath1911.github.io/Travelproject/)
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelproject)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://barath1911.github.io/Travelproject/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelproject)
 
 ---
 
-### 👗 FashionX — E-Commerce Frontend Website
-> **Tech Stack:** `HTML5` `CSS3` `JavaScript ES6` `Bootstrap`
+### 👗 FashionX — E-Commerce Frontend
+**Tech Stack:** `HTML5` `CSS3` `JavaScript ES6` `Bootstrap`
 
 - Responsive e-commerce site with Bootstrap and custom CSS
 - Product cards, wishlist toggle, dynamic "View All / Show Less" functionality
 - Dark/light mode toggle + newsletter form with email validation
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-4CAF50?style=for-the-badge)](https://barath1911.github.io/E-Commerce-FashionX/)
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/E-Commerce-FashionX)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://barath1911.github.io/E-Commerce-FashionX/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/E-Commerce-FashionX)
 
 ---
 
 ### ✈️ Travel Web Application *(Spring MVC + Security)*
-> **Tech Stack:** `Spring MVC` `Spring Security` `JPA` `MySQL` `HTML5` `CSS3` `Bootstrap`
+**Tech Stack:** `Spring MVC` `Spring Security` `JPA` `MySQL` `Bootstrap`
 
-- Secure travel booking app using Spring MVC architecture
-- Spring Security with BCrypt encryption & role-based access control
-- JPA + MySQL integration with prepared queries & secure session handling
+- Secure travel booking app with Spring Security & BCrypt encryption
+- Role-based access control, JPA + MySQL integration
+- Secure session handling and prepared queries
 
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelweb)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/Travelweb)
 
 ---
 
 ### ✅ To-Do List REST API *(Spring Boot)*
-> **Tech Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API` `Lombok`
+**Tech Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Lombok`
 
-- RESTful CRUD API with layered architecture: Controller → Service → Repository
-- Custom `TaskNotFoundException` handling & task filtering by status
-- ResponseEntity best practices with Lombok for clean code
+- RESTful CRUD API with Controller → Service → Repository architecture
+- Custom `TaskNotFoundException` & task filtering by status
+- ResponseEntity best practices with Lombok
 
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/To-Do-List-SpringBoot)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911/To-Do-List-SpringBoot)
 
 ---
 
 ## 📜 Certifications
 
-| 🏆 Certificate | 🏫 Institute | 📅 Year |
-|---|---|---|
-| Java Full Stack Development | Pumo Technovations | 2025 |
+🏆 **Java Full Stack Development — Pumo Technovations, 2025**
 
-> **Covered:** C Program · Core Java · JDBC · HTML · CSS · JavaScript · Bootstrap · Hibernate · Spring MVC · Spring Boot · REST APIs · MySQL
+> Covered: **C Program · Core Java · JDBC · HTML · CSS · JavaScript · Bootstrap · Hibernate · Spring MVC · Spring Boot · REST APIs · MySQL**
 
 ---
 
@@ -127,12 +116,11 @@ Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=barath1911&show_icons=true&theme=dark&title_color=6DB33F&icon_color=F7DF1E&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath1911&layout=compact&theme=dark&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barath1911&show_icons=true&theme=dark&title_color=6DB33F&icon_color=F7DF1E&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&rank_icon=github)](https://github.com/barath1911)
 
-<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barath1911&layout=compact&theme=dark&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&border_color=30363d)](https://github.com/barath1911)
 
-<img src="https://streak-stats.demolab.com?user=barath1911&theme=dark&ring=6DB33F&fire=FF6C37&currStreakLabel=6DB33F&sideLabels=c9d1d9&background=0d1117&border=30363d"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barath1911&theme=dark&ring=6DB33F&fire=FF6C37&currStreakLabel=6DB33F&sideLabels=c9d1d9&background=0d1117&border=30363d)](https://github.com/barath1911)
 
 </div>
 
@@ -143,15 +131,15 @@ Strong foundation in **Core Java, Spring Boot, Spring MVC, Hibernate, REST APIs,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-barath1911-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barath1911)
-[![Gmail](https://img.shields.io/badge/Gmail-barathofficial1911@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathofficial1911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-barathofficial1911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barathofficial1911@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Barath%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barath1911)
 
-<br/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=barath1911&color=6DB33F&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-<br/>
+<div align="center">
 
-> ⭐ **Open to Internship & Junior Developer Opportunities!**
+⭐ **Open to Internship & Junior Developer Opportunities!**
 
 </div>
