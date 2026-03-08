@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Barath+K;Java+Full+Stack+Developer+%7C+Fresher;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+MySQL;Frontend-First+Learner+%7C+HTML+%7C+CSS+%7C+Bootstrap;Open+to+Internship+%26+Junior+Developer+Roles+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Barath+K;Java+Full+Stack+Developer+%7C+Fresher;Spring+Boot+%7C+Hibernate+%7C+REST+APIs+%7C+MySQL;Frontend-First+Learner+%7C+HTML+%7C+CSS+%7C+Bootstrap;Open+to+Internship+%26+Junior+Developer+Roles+🚀" alt="Typing SVG" />
 
 # Barath K
 ### Java Full Stack Developer | Fresher
