@@ -64,15 +64,6 @@
 
 </div>
 
----
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barath1911&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c0392b&fire=e74c3c&currStreakLabel=ffffff)
-
-</div>
 
 ---
 
